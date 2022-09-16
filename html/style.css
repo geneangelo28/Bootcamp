@@ -1,0 +1,138 @@
+* {
+  font-family:tahoma;
+  margin: 0%;
+  padding: 0%;
+}
+body {
+  background-image: url(https://thumbs.dreamstime.com/b/grainy-white-paper-surface-as-texture-background-close-up-macro-200678301.jpg);
+}
+.homelist {
+  width: 100%;
+  color: white;
+  text-align: center;
+}
+.homelist li {
+  font-size: 30px;
+  display: inline-block;
+  margin-right: 40px;
+  margin-left: 40px;
+}
+.img0 {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+li a {
+  text-decoration: none;
+}
+li a:hover {
+  color: darkblue;
+}
+.mini {
+  font-size: 80px;
+  color: rgb(26, 155, 172);
+  margin-top: 0%;
+  margin-bottom: 0%;
+  text-align: center;
+}
+.p1 {
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 40px;
+}
+
+#div2 {
+    display: block;
+    text-align: center;
+  }
+  .img1 {
+    width: 400px;
+    padding-right: 500px;
+  }
+  #div2 p{
+    position:relative;
+    padding-left: 500px;
+    bottom: 250px;
+  }
+  .free {
+    font-size: 40px;
+    color: rgb(26, 155, 172);
+  }
+  .click1 {
+    font-size: 20px;
+  }
+  .click2 {
+    font-size: 20px;
+  }
+  .save {
+    font-size: 30px;
+    color: blue;
+  }
+  #div2 p a:visited{
+      color: orange;
+  }
+  #div2 p a:hover{
+      color: magenta;
+  }
+  #div2 p a:active{
+      color:lime;
+  }
+  #div3 {
+    font-weight: bold;
+    width: 100% ;
+    padding-bottom: 50px;
+
+  }
+  #div3 tr{
+    text-align: center;
+
+  }
+.img2 {
+    float:left;
+    width: 150px;
+    padding-left: 180px;
+    margin-right: 200px;
+
+  }
+  .img3 {
+    float:right;
+    width: 150px;
+    padding-right: 150px;
+  }
+#div3 table th{
+    border-style: dotted;
+    border-color: white rgb(5, 5, 5);
+}
+
+table tr th:hover{
+    background-color: orange;
+
+}
+
+div.gallery {
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+  padding-left: 200px;
+}
+
+
+div.gallery img {
+  width:100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+
+
+div.footer p{
+    position: absolute;
+    text-align: center;
+    top: 1300px;
+    font-size: 10px;
+    left: 400px;
+}
